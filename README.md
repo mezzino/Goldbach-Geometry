@@ -1,8 +1,4 @@
-Title
-
-  Goldbach-Geometry.cpp
-
-Description
+Goldbach-Geometry
 
 C++ program which can be used to compute
 data supporting the conjecture in this paper.
